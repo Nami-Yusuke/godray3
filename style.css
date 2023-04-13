@@ -7649,7 +7649,7 @@ input[type=checkbox]:checked + .wpcf7-list-item-label:before {
   height: 100%;
   transition: 2s;
   transition-delay: 5.5s;
-  opacity: .4;
+  opacity: .5;
   mix-blend-mode: plus-lighter;
 }
 
@@ -7666,7 +7666,7 @@ input[type=checkbox]:checked + .wpcf7-list-item-label:before {
   background-size: cover;
 }
   .p-ray__inner {
-  background-image: url("./img/D_01.png");
+  background-image: url("./img/0412D.png");
 }
 .p-ray__inner:nth-child(1) {
   -webkit-animation: ray 6s ease-in-out 0 infinite;
@@ -7692,7 +7692,7 @@ input[type=checkbox]:checked + .wpcf7-list-item-label:before {
     opacity: 0;
   }
   50% {
-    opacity: 0.45;
+    opacity: 0.5;
   }
   100% {
     opacity: 0;
